@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">In short, Tech Enthusiast with passion for Web Development</h3>
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stushar688&label=Profile%20views&color=0e75b6&style=flat" alt="stushar688" /> </p>
+<h1>Hi 👋, I'm Tushar</h1>
+<h3>In short, Tech Enthusiast with passion for Web Development</h3>
+<hr>
+
+<!-- <h1 align="center">Hi 👋, I'm Tushar</h1> -->
+<!-- <h3 align="center">In short, Tech Enthusiast with passion for Web Development</h3> -->
+
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=stushar688&label=Profile%20views&color=0e75b6&style=flat" alt="stushar688" /> </p> -->
 
 - 🌱 I’m currently learning **Web Development and DSA**
 
